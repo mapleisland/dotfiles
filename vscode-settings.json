@@ -1,0 +1,14 @@
+{
+    "workbench.startupEditor": "none",
+    "git.ignoreMissingGitWarning": true,
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "editor.tabSize": 2,
+    "editor.dragAndDrop": false,
+    "editor.cursorStyle": "line-thin",
+    "editor.wordWrap": "on",
+    "files.eol": "\n",
+    "editor.formatOnPaste": false
+}
