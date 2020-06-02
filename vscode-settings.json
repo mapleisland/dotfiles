@@ -15,5 +15,10 @@
     "workbench.activityBar.visible": false,
     "editor.detectIndentation": false,
     "editor.links": false,
-    "typescript.tsc.autoDetect": "off"
+    "typescript.tsc.autoDetect": "off",
+    "workbench.colorCustomizations": {
+      "statusBar.background" : "#000000",
+      "statusBar.noFolderBackground" : "#000000",
+      "statusBar.debuggingBackground": "#000000"
+    }
   }
