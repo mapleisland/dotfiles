@@ -12,5 +12,8 @@
     "editor.wordWrap": "on",
     "files.eol": "\n",
     "editor.formatOnPaste": false,
-    "workbench.activityBar.visible": false
+    "workbench.activityBar.visible": false,
+    "editor.detectIndentation": false,
+    "editor.links": false,
+    "typescript.tsc.autoDetect": "off"
   }
